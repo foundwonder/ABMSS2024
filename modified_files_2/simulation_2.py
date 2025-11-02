@@ -1,12 +1,12 @@
-#### simulation.py
+#### simulation_2.py
 
 import numpy as np
 
 ### import functions from model files
-from initialisation_functions import *
-from firm_functions import *
-from household_functions import *
-from market_functions import *
+from initialisation_functions_2 import *
+from firm_functions_2 import *
+from household_functions_2 import *
+from market_functions_2 import *
 
 def simulation(r, s, t_max, n, H_max, omega_0, p_0, A, gamma, mu, S_N, delta_0, theta, min_pct, rng):
     sim_results = []

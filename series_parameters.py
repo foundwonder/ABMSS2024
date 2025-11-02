@@ -1,4 +1,4 @@
-#### series_parameters.py
+#### series_parameters_2.py
 
 def series_params():
     series_name = 'ABMSS2024_1'

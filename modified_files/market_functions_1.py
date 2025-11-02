@@ -1,4 +1,4 @@
-#### market_functions.py
+#### market_functions_1.py
 
 import numpy as np
 
@@ -16,3 +16,4 @@ def sell_sugar(S_S, S_D, S):
     else:
         S_C = S
     return S_C
+
